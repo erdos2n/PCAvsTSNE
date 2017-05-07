@@ -17,8 +17,8 @@ to answer this question and I plan on running a random forest classifier to see 
 results.
 
 
-   |  1   |  0   |  Total |
-    ------ -----  -------
-y  |  268 | 500  |  768   |
- % |  35% |  65% | 100%   |
+|     |  1   |  0   |  Total |
+|-----|------|------|--------|
+|  y  |  268 | 500  |  768   |
+|   % |  35% |  65% |  100%  |
 
