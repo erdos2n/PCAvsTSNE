@@ -1,7 +1,9 @@
 # PCAvsTSNE
-I compared PCA and TSNE in a sequential neural net to see which dimensionality reduction algorithm would produce better results.  
+This will  compare PCA and TSNE in a sequential neural net and evaluate the score for each
 
+reduction algorithm.  
 
+---------------------------  
 Without dimensionality reduction:
 * evaluation score = 0.66
 * PCA score        = 0.77
@@ -22,3 +24,10 @@ results.
 |  y  |  268 | 500  |  768   |
 |   % |  35% |  65% |  100%  |
 
+--------------------------------
+There will also be a plot.ly diagram coming showing the labeled data in 3d space.
+
+
+Any and all advice/insights are welcome!
+
+Thanks!
